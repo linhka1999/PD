@@ -2,8 +2,8 @@
 #!/usr/bin/env python3
 
 #-------------------------------#
-# Contact: andanh3705@gmail.com #
-# YouTube: bit.ly/PassDDoS      #
+# Contact: casidanglong6@gmail.com #
+# Facebook: fb.com/tmqtriads      #
 #-------------------------------#
 
 import urllib.request, os, threading, time, random, sys
@@ -58,11 +58,7 @@ class MainLoop():
     def home(self):
         global Close, Request, Tot_req
         print \
-("""                  ____               ____  ____       ____
-                 |  _ \ __ _ ___ ___|  _ \|  _ \  ___/ ___|
-                 | |_) / _` / __/ __| | | | | | |/ _ \___ \ 
-                 |  __/ (_| \__ \__ \ |_| | |_| | (_) |__) |
-                 |_|   \__,_|___/___/____/|____/ \___/____/
+("""             Hacker DDOS
 """)
         while True:        
             url = input('[*] Target [http://victim.com]: ')
